@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+gSHR6M1fF7YtbV3XzrQnPDHG26GGF40J8AXpIbRpXeXZZF7MJda/yZMbLb9eW6B+OXWoe5/h6O5HS3LkcVAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lena\\Desktop\\Институт\\3 курс\\КСПБД\\КП\\RentACar\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lena\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lena\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

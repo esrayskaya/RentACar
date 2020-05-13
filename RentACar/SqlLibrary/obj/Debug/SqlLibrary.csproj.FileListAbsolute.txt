@@ -1,0 +1,9 @@
+C:\Users\Lena\Desktop\Институт\3 курс\КСПБД\КП\RentACar\SqlLibrary\bin\Debug\SqlLibrary.dll
+C:\Users\Lena\Desktop\Институт\3 курс\КСПБД\КП\RentACar\SqlLibrary\bin\Debug\SqlLibrary.pdb
+C:\Users\Lena\Desktop\Институт\3 курс\КСПБД\КП\RentACar\SqlLibrary\bin\Debug\Common.dll
+C:\Users\Lena\Desktop\Институт\3 курс\КСПБД\КП\RentACar\SqlLibrary\bin\Debug\Common.pdb
+C:\Users\Lena\Desktop\Институт\3 курс\КСПБД\КП\RentACar\SqlLibrary\obj\Debug\SqlLibrary.csprojAssemblyReference.cache
+C:\Users\Lena\Desktop\Институт\3 курс\КСПБД\КП\RentACar\SqlLibrary\obj\Debug\SqlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lena\Desktop\Институт\3 курс\КСПБД\КП\RentACar\SqlLibrary\obj\Debug\SqlLibrary.csproj.CopyComplete
+C:\Users\Lena\Desktop\Институт\3 курс\КСПБД\КП\RentACar\SqlLibrary\obj\Debug\SqlLibrary.dll
+C:\Users\Lena\Desktop\Институт\3 курс\КСПБД\КП\RentACar\SqlLibrary\obj\Debug\SqlLibrary.pdb

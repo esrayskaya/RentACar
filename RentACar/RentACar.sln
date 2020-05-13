@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentACar", "RentACar\RentACar.csproj", "{F094DBBF-7594-42A0-B54A-CD11BE915D7A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{690F684C-2035-4A5C-B7CE-C12CC2BEC134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlLibrary", "SqlLibrary\SqlLibrary.csproj", "{B7C161F2-A11B-4457-80E7-1FDE54D4A2A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F094DBBF-7594-42A0-B54A-CD11BE915D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F094DBBF-7594-42A0-B54A-CD11BE915D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F094DBBF-7594-42A0-B54A-CD11BE915D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F094DBBF-7594-42A0-B54A-CD11BE915D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690F684C-2035-4A5C-B7CE-C12CC2BEC134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690F684C-2035-4A5C-B7CE-C12CC2BEC134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690F684C-2035-4A5C-B7CE-C12CC2BEC134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690F684C-2035-4A5C-B7CE-C12CC2BEC134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C161F2-A11B-4457-80E7-1FDE54D4A2A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C161F2-A11B-4457-80E7-1FDE54D4A2A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C161F2-A11B-4457-80E7-1FDE54D4A2A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C161F2-A11B-4457-80E7-1FDE54D4A2A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C99D025-6422-46B5-8BCE-3CF016DE6BC0}
+	EndGlobalSection
+EndGlobal
